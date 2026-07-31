@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45c4d72caff83f4478768087c56e704d, type: 3}
+  m_Name: BonefireData
+  m_EditorClassIdentifier: 
+  itemID: bonefire
+  itemIcon: {fileID: -49440777763734283, guid: d209cf066280a7c4e88f1c8b3d9f952c, type: 3}
+  itemPrefab: {fileID: 3539686624551360894, guid: db6000b202bdc88428a4719a12d0895d, type: 3}

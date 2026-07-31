@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45c4d72caff83f4478768087c56e704d, type: 3}
+  m_Name: DeadRabbitData
+  m_EditorClassIdentifier: 
+  itemID: dead rabbit
+  itemIcon: {fileID: 897620547096062022, guid: efb2ae7c192e2fb488f3571745885e56, type: 3}
+  itemPrefab: {fileID: 3383824029872929656, guid: 0ceb4856f65f5904e87410a5685f2a66, type: 3}

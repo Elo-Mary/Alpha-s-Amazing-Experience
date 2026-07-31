@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45c4d72caff83f4478768087c56e704d, type: 3}
+  m_Name: BrokenLadderData
+  m_EditorClassIdentifier: 
+  itemID: brokenLadder
+  itemIcon: {fileID: -3590587511513925099, guid: 0a637c5d19c846e47bdc57d4bb98b7f1, type: 3}
+  itemPrefab: {fileID: 1340144521326896804, guid: dfbf85fa2a3d80649b89658d8211bfef, type: 3}

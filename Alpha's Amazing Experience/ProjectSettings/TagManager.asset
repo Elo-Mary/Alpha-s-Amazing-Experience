@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - unpickable
+  - player
+  - pickable
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4039162747
+    locked: 0
+  - name: Unpickable
+    uniqueID: 3067914463
+    locked: 0
+  - name: Pickable
+    uniqueID: 3818346057
+    locked: 0
+  - name: Player
+    uniqueID: 1579482341
+    locked: 0
+  - name: UI
+    uniqueID: 1212659641
+    locked: 0
