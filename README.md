@@ -1,7 +1,7 @@
 # Alpha's Amazing Experience
 
-<p align="center">
-  <img src="./Alpha's%20Amazing%20Experience/Assets/item.png" alt="Game Banner" width="100%" />
+<p align="left">
+  <img src="./Alpha's%20Amazing%20Experience/Assets/item.png" alt="Game Banner" width="50%" />
 </p>
 
 > 一款结合文字输入的解谜游戏。玩家需要通过输入精准的英文指令，在多个场景中搜集物资、组装物品并解开跨场景的复杂谜题。
@@ -138,10 +138,10 @@ git clone https://github.com/Elo-Mary/Alpha-s-Amazing-Experience.git
 
 本项目采用 **MIT License** 协议开源。详细信息请参阅 [LICENSE](./LICENSE) 文件。
 
-美术素材由 [@little7-c](https://github.com/little7-c) 绘制，仅供学习交流，未经允许严禁商业用途。
+美术素材由 [@little7-c](https://github.com/little7-c) · [@yanlandai](https://github.com/yanlandai) 绘制，仅供学习交流，未经允许严禁商业用途。
 
 ## 鸣谢 (Credits)
 
 - **开发**：[@Elo-Mary](https://github.com/Elo-Mary) · [@lingter](https://github.com/lingter) · [@Ropert-hrp](https://github.com/Ropert-hrp)
-- **美术资产**：[@little7-c](https://github.com/little7-c)
-- **特别感谢**：感谢在架构设计与逻辑实现过程中提供协助的 AI 伙伴 [@Gemini 3.1 Pro](https://gemini.google.com)，由 [@Sisyphus](https://opencode.ai) · [@GLM5.2](https://open.bigmodel.cn/) 协助文档重构与润色。
+- **美术与音乐资产**：[@little7-c](https://github.com/little7-c) · [@yanlandai](https://github.com/yanlandai)
+- **特别感谢**：感谢在架构设计与逻辑实现过程中提供协助的 AI 伙伴 [@Gemini 3.1 Pro](https://gemini.google.com)，由 [@GLM5.2](https://open.bigmodel.cn/) 协助文档重构与润色。
